@@ -9,9 +9,9 @@
  **** README
  * ***********
  *
- * KEY:         The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
+ * KEY:kspace        The subdomain you request (e.g.: "foo" would give the custom domain "foo.js.org").
  *
- * VALUE:       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
+ * VALUE:kuailiaojie.netlify.com       The regular domain provided by GitHub (e.g.: "foo.github.io" for a User-/Organization Page
  *              or "foo.github.io/bar" for a Project Page).
  *
  * CLOUDFLARE:  JS.ORG uses Cloudflare as its DNS. By default, Cloudflare proxies all requests to your subdomain
